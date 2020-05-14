@@ -1,0 +1,2 @@
+model_checkpoint_path: "MobileFaceNet_iter_14000.ckpt"
+all_model_checkpoint_paths: "MobileFaceNet_iter_14000.ckpt"
